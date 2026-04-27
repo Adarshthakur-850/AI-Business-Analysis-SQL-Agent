@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Business Analysis SQL Agent
 
 An AI-powered agent that converts natural language questions into SQL queries, executes them on a business database, and explains the results.
@@ -41,3 +42,7 @@ An AI-powered agent that converts natural language questions into SQL queries, e
 - `customers`: id, name, city, signup_date
 - `products`: id, name, category, price
 - `orders`: id, customer_id, product_id, amount, order_date
+=======
+# AI-Business-Analysis-SQL-Agent
+ml project
+>>>>>>> a87cdfb1e9bfe2598fb6878f3f58058181974d40
